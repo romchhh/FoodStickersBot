@@ -1,7 +1,7 @@
 ## FoodStickers-from-excel
 
 
-#This telegram bot makes stickers in word for dishes from your Excel file.
+This telegram bot makes stickers in word for dishes from your Excel file.
 
 
 
