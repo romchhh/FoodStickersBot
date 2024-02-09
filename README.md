@@ -2,7 +2,8 @@
 This telegram bot makes stickers in word for dishes from your Excel file.
 
 
-![image](https://github.com/romchhh/foodStickers-from-excel/assets/123520267/55f7ced2-59d7-4996-98fc-3504d61108cb)
+
+![Знімок екрана 2024-02-09 212104](https://github.com/romchhh/FoodStickersBot/assets/123520267/593b7177-a466-481b-a56e-6f5ff3a95d12)
 
 
 
@@ -11,7 +12,9 @@ This telegram bot makes stickers in word for dishes from your Excel file.
 
 For example you send excel files like this to my TelegramBot:
 
-![image](https://github.com/romchhh/foodStickers-from-excel/assets/123520267/5056ab8c-aa74-4d3f-a595-ba4b5fb13c5a)
+![Знімок екрана 2024-02-09 212356](https://github.com/romchhh/FoodStickersBot/assets/123520267/64441ffd-9d48-47fb-8b73-71d4434a7557)
+
+
 
 
 
@@ -20,7 +23,8 @@ For example you send excel files like this to my TelegramBot:
 
 Then you choose date of preparating the dish:
 
-![image](https://github.com/romchhh/foodStickers-from-excel/assets/123520267/f9f91282-699d-4c32-ab1b-0cc97ef5808a)
+![Знімок екрана 2024-02-09 212639](https://github.com/romchhh/FoodStickersBot/assets/123520267/e5e7278b-ec05-42c6-a6fa-84f0235043d5)
+
 
 
 
@@ -29,7 +33,8 @@ Then you choose date of preparating the dish:
 
 Generate and receive the word file that will be printed on paper stickers:
 
-![image](https://github.com/romchhh/foodStickers-from-excel/assets/123520267/ab806051-d290-4b11-ba9b-03264bb27dc7)
+![Знімок екрана 2024-02-09 212831](https://github.com/romchhh/FoodStickersBot/assets/123520267/00746e97-86f7-4c80-969a-318080ae3b6a)
+
 
 
 The functionality is much more bigger, so enjoy and use it to your advantages :)
