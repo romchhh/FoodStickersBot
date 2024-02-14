@@ -5,8 +5,6 @@ This telegram bot makes stickers in word for dishes from your Excel file.
 
 
 
-![Знімок екрана 2024-02-09 212104](https://github.com/romchhh/FoodStickersBot/assets/123520267/593b7177-a466-481b-a56e-6f5ff3a95d12)
-
 
 
 
